@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-events-content-react-native",
+  "capabilityKey": "liberusoftware/module-cms-events-content",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-events-content-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/events-content.md",
+  "presentationPlan": "projects/cms/react-native/events-content.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
